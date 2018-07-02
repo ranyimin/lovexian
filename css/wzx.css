@@ -1,0 +1,47 @@
+.wzx {
+    min-height: calc(100vh - 37.48px);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+footer {
+    text-align: center;
+    padding: .5em 0;
+    background-color: cyan;
+    color: red;
+    font-size: 40px;
+}
+
+.zx {
+    font-family: '华文行楷';
+    font-size: 80px;
+    color: red;
+
+}
+
+body {
+    background-color: pink;
+}
+
+.h1 {
+    font-family: cursive;
+    font-size: 40px;
+}
+
+.wzx1 {
+    height: 900px;
+    width: 700px;
+}
+
+.wzx2 {
+    background-repeat: repeat-x;
+    height: 700px;
+    width: 700px;
+}
+
+.wzx3 {
+    background-repeat: repeat-x;
+    height: 700px;
+    width: 700px;
+}

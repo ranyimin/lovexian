@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.main-header {
+    text-align: center;
+    background-color: blueviolet;
+    padding-bottom: 1em;
+
+}
+
+
+#div3 {
+    background: url(../laowang/3.gif);
+
+}
+
+#div4 {
+    background: url(../laowang/b2.jpg);
+    height: 400px;
+}
+
+#btn1 {
+    border-radius: .5em;
+    background-color: antiquewhite;
+    height: 40px;
+}
+
+#btn2 {
+    border-radius: .5em;
+    background-color: aliceblue;
+    height: 40px;
+}
+
+#btn3 {
+    border-radius: .5em;
+    background-color: beige;
+    height: 40px;
+}
+
+#btn4 {
+    background-color: azure;
+    border-radius: .5em;
+    height: 40px;
+}
+
+h1 {
+    font-family: '楷体';
+    color: brown;
+    margin: 0;
+    padding: .5em 0;
+}
+
+.main-nav li:hover {
+
+    padding: 1em 1em;
+    transition: .3s;
+    padding-bottom: 1em;
+    min-height: calc(10vh - 37.48px);
+    display: block;
+
+}
+
+footer {
+    text-align: center;
+    padding: .5em 0;
+    background-color: aqua;
+
+}
+
+.main-nav li {
+    float: none;
+}
+
+.contalner {
+    height: 800px;
+
+}
+
+.name {
+    font-family: '华文行楷';
+    font-size: 60px;
+}

@@ -1,0 +1,21 @@
+.ysgj {
+    font-family: '楷体'; font-size: 40px;
+    color: red;
+    background-position: center center;
+    
+}
+
+
+body {
+    background-image: url(../laowang/1.gif);
+    background-repeat: space;
+}
+
+
+
+footer {
+    text-align: center;
+    padding: .5em 0;
+    background-color: cyan;
+    color: red;
+}

@@ -1,0 +1,20 @@
+.jz{
+    background-color: red;
+    font-family: '华文行楷';
+    font-size: 50px;
+}
+.sq{
+    background: pink;
+    background-repeat: repeat-x;
+    height: 500px;
+    width: 500px;
+}
+body{
+    background-color: antiquewhite;
+}
+footer {
+    text-align: center;
+    padding: .5em 0;
+    background-color: cyan;
+    color: red;
+}
